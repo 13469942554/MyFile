@@ -42,25 +42,6 @@
 "ratio":1.33},
 "ext":"./lib/sougou.js"},
 
-{"key":"佳酿",
-"name":"佳酿秒播",
-"type":3,
-"api":"csp_AppYsV2",
-"style":{
-"type":"rect",
-"ratio":1.33},
-"searchable":1,
-"quickSearch":1,
-"changeable":1,
-"filterable":1,
-"ext":"https://s.jialiangos.com/api.php/app/",
-"categories":[
-"国产剧",
-"综艺",
-"电影",
-"4K专享"
-]},
-
 {"key":"秒播",
 "name":"MP4秒播",
 "type":3,
@@ -73,7 +54,6 @@
 "changeable":1,
 "ext":"http://mp4.ghlyys.com/api.php/app/"},
 
-
 {"key":"drpy_南瓜",
 "name":"南瓜影视",
 "type":3,
@@ -85,6 +65,23 @@
 "quickSearch":1,
 "filterable":1,
 "ext":"./lib/南瓜影视.js"},
+
+{"key":"玉米",
+"name":"玉米影视",
+"type":3,
+"api":"csp_AppYsV2",
+"style":{
+"type":"rect",
+"ratio":1.33},
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"http://caiji.ghlyys.com/yumi/api.php/app/",
+"categories":[
+"电影",
+"剧场",
+"动漫"]},
+
 {"key":"csp_暴风",
 "name":"暴风影视",
 "type":1,
@@ -105,22 +102,6 @@
 "ratio":1.33},
 "playerType":"1",
 "ext":"./lib/子子.json"},
-
-{"key":"玉米",
-"name":"玉米影视",
-"type":3,
-"api":"csp_AppYsV2",
-"style":{
-"type":"rect",
-"ratio":1.33},
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":"http://caiji.ghlyys.com/yumi/api.php/app/",
-"categories":[
-"电影",
-"剧场",
-"动漫"]},
 
 {"key":"迷你库",
 "name":"迷你仓库",
@@ -181,7 +162,6 @@
 "type":"rect",
 "ratio":1.33},
 "ext":"http://www.miniku.cc/xgapp.php/v2/"},
-
 
 {"key":"qiyue",
 "name":"七月蓝光",
@@ -258,8 +238,6 @@
 "style":{
 "type":"rect",
 "ratio":1.33}},
-
-
 
 {"key":"两个BT",
 "name":"两BT影视",
@@ -405,7 +383,6 @@
 "type":"rect",
 "ratio":1.33}},
 
-
 {"key":"csp_非凡",
 "name":"非凡影视",
 "type":3,
@@ -418,8 +395,7 @@
 "filterable":1,
 "ext":"./lib/非凡资源网.json"},
 
-{
-"key":"csp_量子",
+{"key":"csp_量子",
 "name":"量子影视",
 "type":3,
 "api":"csp_XBPQ",
