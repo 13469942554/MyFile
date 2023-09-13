@@ -149,7 +149,7 @@
 "ext":"./lib/七月影视.json"},
 
 {"key":"kkys",
-"name":"快看≛猫猫",
+"name":"快看猫猫",
 "type":3,
 "api":"./lib/kkys_open.js",
 "style":{
@@ -157,7 +157,7 @@
 "ratio":1.33}},
 
 {"key":"kunyu77",
-"name":"七七≛猫猫",
+"name":"七七猫猫",
 "type":3,
 "api":"./lib/kunyu77_open.js",
 "style":{
