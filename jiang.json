@@ -24,6 +24,15 @@
 "type":"rect",
 "ratio":1.33}},
 
+{"key":"直播转点播",
+"name":"电视直播",
+"type":3,
+"api":"./lib/九辰直转点.js",
+"style":{
+"type":"rect",
+"ratio":1.33},
+"ext":"./lib/九辰.json"},
+
 {"key":"drpy_js_360影视",
 "name":"360视频",
 "type":3,
@@ -103,23 +112,6 @@
 "playerType":"1",
 "ext":"./lib/子子.json"},
 
-{"key":"迷你库",
-"name":"迷你仓库",
-"type":3,
-"api":"csp_AppYsV2",
-"style":{
-"type":"rect",
-"ratio":1.33},
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":"http://www.miniku.cc/xgapp.php/v1/",
-"categories":[
-"电影",
-"剧集",
-"综艺",
-"动漫"]},
-
 {"key":"drpy_js_厂长资源",
 "name":"厂长影视",
 "type":3,
@@ -156,16 +148,21 @@
 "filterable":1,
 "ext":"./lib/七月影视.json"},
 
-{"key":"csp_Kunyu77_七七",
-"name":"酷云七七",
+{"key":"kkys",
+"name":"快看≛猫猫",
 "type":3,
-"api":"csp_Kunyu77",
+"api":"./lib/kkys_open.js",
 "style":{
 "type":"rect",
-"ratio":1.33},
-"searchable":1,
-"quickSearch":1,
-"filterable":1},
+"ratio":1.33}},
+
+{"key":"kunyu77",
+"name":"七七≛猫猫",
+"type":3,
+"api":"./lib/kunyu77_open.js",
+"style":{
+"type":"rect",
+"ratio":1.33}},
 
 {"key":"csp_熊猫",
 "name":"熊猫影院",
@@ -178,6 +175,23 @@
 "quickSearch":1,
 "filterable":1,
 "ext":"./lib/熊猫影院.json"},
+
+{"key":"迷你库",
+"name":"迷你仓库",
+"type":3,
+"api":"csp_AppYsV2",
+"style":{
+"type":"rect",
+"ratio":1.33},
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"http://www.miniku.cc/xgapp.php/v1/",
+"categories":[
+"电影",
+"剧集",
+"综艺",
+"动漫"]},
 
 {"key":"drpy_创艺",
 "name":"创艺影视",
