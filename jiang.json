@@ -193,18 +193,6 @@
 "综艺",
 "动漫"]},
 
-{"key":"drpy_创艺",
-"name":"创艺影视",
-"type":3,
-"api":"./lib/drpy2.min.js",
-"style":{
-"type":"rect",
-"ratio":1.33},
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":"./lib/创艺影视.js"},
-
 {"key":"csp_XYQHiker_素白白影视",
 "name":"素白影视",
 "type":3,
