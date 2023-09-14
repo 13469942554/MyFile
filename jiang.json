@@ -148,11 +148,21 @@
 "filterable":1,
 "ext":"./lib/七月影视.json"},
 
-   {"key":"csp_Kuaikan","name":"💡快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"kkys",
+"name":"快看猫猫",
+"type":3,
+"api":"./lib/kkys_open.js",
+"style":{
+"type":"rect",
+"ratio":1.33}},
 
-        {"key":"csp_Kunyu77","name":"🐞77影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"kunyu77",
+"name":"七七猫猫",
+"type":3,
+"api":"./lib/kunyu77_open.js",
+"style":{
+"type":"rect",
+"ratio":1.33}},
 
 {"key":"csp_熊猫",
 "name":"熊猫影院",
@@ -268,7 +278,19 @@
 "playerType":2,
 "ext":"./lib/在线之家.js"},
 
- {"key": "csp_XYQHiker_乐猪影视","name": "🐷乐猪影视(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQHiker/乐猪TV.json"},
+{"key":"drpy_js_乐猪TV",
+"name":"乐猪影视",
+"type":3,
+"api":"./lib/drpy2.min.js",
+"style":{
+"type":"rect",
+"ratio":1.33},
+"ext":"./lib/乐猪TV.js",
+"categories":[
+"电影",
+"连续剧",
+"综艺",
+"动漫"]},
 
 {"key":"drpy_js_百忙无果",
 "name":"芒果官源",
