@@ -45,22 +45,6 @@
 "filterable":1,
 "ext":"./lib/南瓜影视.js"},
 
-{"key":"玉米",
-"name":"玉米影视",
-"type":3,
-"api":"csp_AppYsV2",
-"style":{
-"type":"rect",
-"ratio":1.33},
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":"http://caiji.ghlyys.com/yumi/api.php/app/",
-"categories":[
-"电影",
-"剧场",
-"动漫"]},
-
 {"key":"佳良",
 "name":"佳良秒播",
 "type":3,
@@ -155,19 +139,6 @@
       "filterable": 1,
       "ext": "./lib/黑狐影视.json"
     },
-
-{"key":"qiyue",
-"name":"七月蓝光",
-"type":3,
-"playerType":2,
-"api":"csp_XBPQ",
-"style":{
-"type":"rect",
-"ratio":1.33},
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":"./lib/七月影视.json"},
 
 {"key":"csp_熊猫",
 "name":"熊猫影院",
