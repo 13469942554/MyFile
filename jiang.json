@@ -12,36 +12,6 @@
 
 "sites":[
 
-{"key":"drpy_豆瓣",
-"name":"豆瓣推荐",
-"type":3,
-"api":"./lib/drpy2.min.js",
-"style":{
-"type":"rect",
-"ratio":1.33},
-"searchable":0,
-"quickSearch":0,
-"filterable":0,
-"ext":"./lib/douban.js"},
-
-{"key":"直播转点播",
-"name":"电视直播",
-"type":3,
-"api":"./lib/九辰直转点.js",
-"style":{
-"type":"rect",
-"ratio":1.33},
-"ext":"./lib/九辰.json"},
-
-{"key":"drpy_js_360影视",
-"name":"360视频",
-"type":3,
-"api":"./lib/drpy2.min.js",
-"style":{
-"type":"rect",
-"ratio":1.33},
-"ext":"./lib/360影视.js"},
-
 {"key":"搜狗",
 "name":"搜狗视频",
 "type":3,
@@ -50,8 +20,6 @@
 "type":"rect",
 "ratio":1.33},
 "ext":"./lib/sougou.js"},
-
-{"key": "xml_腾讯","name":"腾讯☆php","type":1,"api":"http://tvbox.top/qq.php","changeable":0,"searchable":1,"quickSearch":1},
 
 {"key":"秒播",
 "name":"MP4秒播",
@@ -344,6 +312,15 @@
 "综艺",
 "动漫"]},
 
+{"key":"drpy_js_360影视",
+"name":"360视频",
+"type":3,
+"api":"./lib/drpy2.min.js",
+"style":{
+"type":"rect",
+"ratio":1.33},
+"ext":"./lib/360影视.js"},
+
 {"key":"drpy_js_百忙无果",
 "name":"芒果官源",
 "type":3,
@@ -403,6 +380,16 @@
 "quickSearch":1,
 "filterable":1,
 "ext":"./lib/量子资源网.json"},
+
+{"key":"直播转点播",
+"name":"电视直播",
+"type":3,
+"api":"./lib/九辰直转点.js",
+"style":{
+"type":"rect",
+"ratio":1.33},
+"ext":"./lib/九辰.json"},
+
 
 {"key":"csp_XYQHikerAL_云盘网",
 "name":"云网阿里",
