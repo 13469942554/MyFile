@@ -51,6 +51,8 @@
 "ratio":1.33},
 "ext":"./lib/sougou.js"},
 
+{"key": "xml_腾讯","name":"腾讯☆php","type":1,"api":"http://tvbox.top/qq.php","changeable":0,"searchable":1,"quickSearch":1},
+
 {"key":"秒播",
 "name":"MP4秒播",
 "type":3,
