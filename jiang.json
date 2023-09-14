@@ -148,21 +148,25 @@
 "filterable":1,
 "ext":"./lib/七月影视.json"},
 
-{"key":"kkys",
-"name":"快看猫猫",
+ {"key":"csp_Kuaikan","name":"快看影视",
 "type":3,
-"api":"./lib/kkys_open.js",
+"api":"csp_Kuaikan",
 "style":{
 "type":"rect",
-"ratio":1.33}},
+"ratio":1.33}
+"searchable":1,
+"quickSearch":1,
+"filterable":1},
 
-{"key":"kunyu77",
-"name":"七七猫猫",
+{"key":"csp_Kunyu77","name":"七七影视",
 "type":3,
-"api":"./lib/kunyu77_open.js",
+"api":"csp_Kunyu77",
 "style":{
 "type":"rect",
-"ratio":1.33}},
+"ratio":1.33}
+"searchable":1,
+"quickSearch":1,
+"filterable":1},
 
 {"key":"csp_熊猫",
 "name":"熊猫影院",
