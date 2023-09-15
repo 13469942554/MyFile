@@ -11,7 +11,7 @@
 "sites":[
 
 {"key":"drpy_js_菜狗",
-"name":"搜狗≛官源",
+"name":"搜狗官源",
 "type":3,
 "api":"./lib/drpy2.min.js",
 "style":{
@@ -20,7 +20,7 @@
 "ext":"./lib/菜狗.js"},
 
 {"key":"秒播",
-"name":"MP4≛秒播",
+"name":"MP4秒播",
 "type":3,
 "api":"csp_AppYsV2",
 "style":{
@@ -32,7 +32,7 @@
 "ext":"http://mp4.ghlyys.com/api.php/app/"},
 
 {"key":"drpy_js_我的哔哩",
-"name":"哔哩≛综合",
+"name":"哔哩综合",
 "type":3,
 "api":"./lib/drpy2.min.js",
 "searchable":0,
@@ -43,7 +43,7 @@
 "ratio":1.33}},
 
 {"key":"直播转点播",
-"name":"电视≛直播",
+"name":"电视直播",
 "type":3,
 "api":"./lib/九辰直转点.js",
 "style":{
@@ -52,7 +52,7 @@
 "ext":"./lib/九辰.json"},
 
 {"key":"csp_XYQHikerAL_玩偶哥哥",
-"name":"玩偶≛哥⁴K",
+"name":"玩偶哥⁴K",
 "type":3,
 "api":"csp_XYQHikerAL",
 "style":{
@@ -119,7 +119,7 @@
 "手动嗅探视频链接过滤词":".html#=http"}},
 
 {"key":"zxzj",
-"name":"在线≛之家",
+"name":"在线之家",
 "type":3,
 "api":"./lib/zxzj_open.js",
 "style":{
@@ -127,7 +127,7 @@
 "ratio":1.33}},
 
 {"key":"subaibai",
-"name":"素白≛影视",
+"name":"素白影视",
 "type":3,
 "api":"./lib/subaibai_open.js",
 "style":{
@@ -140,7 +140,7 @@
 "动漫剧"]},
 
 {"key":"迷你库",
-"name":"迷你≛仓库",
+"name":"迷你仓库",
 "type":3,
 "api":"csp_AppYsV2",
 "style":{
@@ -157,7 +157,7 @@
 "动漫"]},
 
 {"key":"子子",
-"name":"子子≛影视",
+"name":"子子影视",
 "type":3,
 "api":"csp_XBPQ",
 "style":{
@@ -167,7 +167,7 @@
 "ext":"./lib/子子.json"},
 
 {"key":"drpy_js_荐片",
-"name":"荐片≛高清",
+"name":"荐片高清",
 "type":3,
 "api":"./lib/drpy2.min.js",
 "ext":"./lib/荐片.js",
@@ -177,7 +177,7 @@
 "ratio":1.33}},
 
 {"key":"nangua",
-"name":"南瓜≛影视",
+"name":"南瓜影视",
 "type":3,
 "api":"./lib/ng_open.js",
 "style":{
@@ -190,7 +190,7 @@
 "动漫"]},
 
 {"key":"kunyu77",
-"name":"酷云≛七七",
+"name":"酷云七七",
 "type":3,
 "api":"./lib/kunyu77_open.js",
 "style":{
@@ -198,7 +198,7 @@
 "ratio":1.33}},
 
 {"key":"drpy_js_厂长资源",
-"name":"厂长≛资源",
+"name":"厂长资源",
 "type":3,
 "api":"./lib/drpy2.min.js",
 "ext":"./lib/厂长资源.js",
@@ -211,7 +211,7 @@
 "国产剧"]},
 
 {"key":"kkys",
-"name":"快看≛影视",
+"name":"快看影视",
 "type":3,
 "api":"./lib/kkys_open.js",
 "style":{
@@ -219,7 +219,7 @@
 "ratio":1.33}},
 
 {"key":"Freeok",
-"name":"FOK≛BPQ",
+"name":"FOK影院",
 "type":3,
 "api":"csp_XBPQ",
 "style":{
@@ -244,7 +244,7 @@
 "简介":"<p>&&</p>"}},
 
 {"key":"黑狐",
-"name":"黑狐≛影院",
+"name":"黑狐影院",
 "type":3,
 "searchable":1,
 "quickSearch":1,
@@ -286,7 +286,7 @@
 "分类url":"http://fagmn.com/list/{cateId}_{catePg}.html?order=time"}},
 
 {"key":"csp_XYQHiker_高清MP4",
-"name":"MP4≛蓝光",
+"name":"MP4蓝光",
 "type":3,
 "api":"csp_XYQHiker",
 "style":{
@@ -337,7 +337,7 @@
 "手动嗅探视频链接过滤词":".html"}},
 
 {"key":"csp_XYQHiker_农民影视",
-"name":"‍农民≛影视",
+"name":"‍农民影视",
 "type":3,
 "api":"csp_XYQHiker",
 "style":{
@@ -412,7 +412,7 @@
 "手动嗅探视频链接过滤词":".html#=http"}},
 
 {"key":"csp_熊猫",
-"name":"熊猫≛影院",
+"name":"熊猫影院",
 "type":3,
 "api":"csp_XBPQ",
 "style":{
@@ -455,7 +455,7 @@
 
 
 {"key":"drpy_js_360影视",
-"name":"360≛官源",
+"name":"360官源",
 "type":3,
 "api":"./lib/drpy2.min.js",
 "style":{
@@ -464,7 +464,7 @@
 "ext":"./lib/360影视.js"},
 
 {"key":"drpy_js_腾云驾雾",
-"name":"腾讯≛官源",
+"name":"腾讯官源",
 "type":3,
 "api":"./lib/drpy2.min.js",
 "ext":"./lib/腾云驾雾.js",
@@ -473,7 +473,7 @@
 "ratio":1.33}},
 
 {"key":"drpy_js_百忙无果",
-"name":"芒果≛官源",
+"name":"芒果官源",
 "type":3,
 "api":"./lib/drpy2.min.js",
 "style":{
@@ -482,7 +482,7 @@
 "ext":"./lib/百忙无果.js"},
 
 {"key":"drpy_js_奇珍异兽",
-"name":"IQY≛官源",
+"name":"IQY官源",
 "type":3,
 "api":"./lib/drpy2.min.js",
 "ext":"./lib/奇珍异兽.js",
@@ -491,7 +491,7 @@
 "ratio":1.33}},
 
 {"key":"drpy_js_优酷",
-"name":"优酷≛官源",
+"name":"优酷官源",
 "type":3,
 "api":"./lib/drpy2.min.js",
 "ext":"./lib/优酷.js",
@@ -500,7 +500,7 @@
 "ratio":1.33}},
 
 {"key":"drpy_js_哔哩影视",
-"name":"哔哩≛影视",
+"name":"哔哩影视",
 "type":3,
 "api":"./lib/drpy2.min.js",
 "ext":"./lib/哔哩影视.js",
@@ -509,7 +509,7 @@
 "ratio":1.33}},
 
 {"key":"csp_新视觉",
-"name":"视觉≛影视",
+"name":"视觉影视",
 "type":3,
 "api":"csp_XBPQ",
 "style":{
@@ -559,7 +559,7 @@
 },
 
 {"key":"csp_XYQHiker_电影港",
-"name":"电影≛蓝光",
+"name":"电影蓝光",
 "type":3,
 "api":"csp_XYQHiker",
 "style":{
@@ -613,63 +613,8 @@
 "VideoFormat":".mp4#.m3u8#.flv",
 "VideoFilter":".html#=http"}},
 
-{"key":"csp_XYQHiker_极影网",
-"name":"极影≛蓝光",
-"type":3,
-"api":"csp_XYQHiker",
-"style":{
-"type":"rect",
-"ratio":1.33},
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":{
-"请求头参数":"PC_UA",
-"网页编码格式":"UTF-8",
-"图片是否需要代理":"0",
-"是否开启获取首页数据":"1",
-"首页推荐链接":"https://www.jiyingw.vip",
-"首页列表数组规则":"body&&.masonry",
-"首页片单列表数组规则":"li",
-"首页片单是否Jsoup写法":"1",
-"首页片单标题":"h2&&Text",
-"首页片单链接":"a&&href",
-"首页片单图片":"img&&src",
-"首页片单副标题":".info_date&&Text",
-"分类链接":"https://www.jiyingw.vip{cateId}/page/{catePg}[firstPage=https://www.jiyingw.vip{cateId}]",
-"分类名称":"电影&电视剧&动漫&综艺",
-"分类名称替换词":"/movie&/tv&/cartoon&/movie/variety",
-"分类截取模式":"1",
-"分类列表数组规则":".masonry&&li",
-"分类片单是否Jsoup写法":"1",
-"分类片单标题":"h2&&Text",
-"分类片单链接":"a&&href",
-"分类片单图片":"img&&src",
-"分类片单副标题":".info_date&&Text",
-"搜索请求头参数":"User-Agent$PC_UA#Cookie$esc_search_captcha=1",
-"搜索链接":"https://www.jiyingw.net/?s={wd}",
-"搜索截取模式":"1",
-"搜索列表数组规则":".masonry&&li",
-"搜索片单是否Jsoup写法":"1",
-"搜索片单图片":"img&&src",
-"搜索片单标题":"h2&&Text",
-"搜索片单链接":"a&&href",
-"搜索片单副标题":".info_date&&Text",
-"链接是否直接播放":"0",
-"详情是否Jsoup写法":"0",
-"播放列表数组规则":"body&&#post_content",
-"选集列表数组规则":"a[href^=magnet]||a[href^=ed2K]",
-"选集标题链接是否Jsoup写法":"1",
-"选集标题":"Text",
-"选集链接":"a&&href",
-"是否反转选集序列":"0",
-"分析MacPlayer":"0",
-"是否开启手动嗅探":"0",
-"手动嗅探视频链接关键词":".mp4#.m3u8#.flv",
-"手动嗅探视频链接过滤词":".html"}},
-
 {"key":"csp_淘剧",
-"name":"淘剧≛影院",
+"name":"淘剧影院",
 "type":3,
 "api":"csp_XBPQ",
 "style":{
@@ -681,7 +626,7 @@
 "ext":"./lib/淘剧影院.json"},
 
 {"key":"csp_Bdys",
-"name":"哔嘀≛影视",
+"name":"哔嘀影视",
 "type":3,
 "api":"csp_Bdys",
 "style":{
@@ -692,7 +637,7 @@
 "filterable":1},
 
 {"key":"csp_暴风",
-"name":"暴风≛影视",
+"name":"暴风影视",
 "type":1,
 "api":"https://yk.shaozeyy.com/api.php/provide/vod//from/bfzym3u8",
 "style":{
@@ -703,7 +648,7 @@
 "filterable":1},
 
 {"key":"csp_非凡",
-"name":"非凡≛影视",
+"name":"非凡影视",
 "type":3,
 "api":"csp_XBPQ",
 "style":{
@@ -745,7 +690,7 @@
 }},
 
 {"key":"csp_量子",
-"name":"量子≛影视",
+"name":"量子影视",
 "type":3,
 "api":"csp_XBPQ",
 "style":{
@@ -791,7 +736,7 @@
 }},
 
 {"key":"csp_AliPS",
-"name":"喵狸≛搜索",
+"name":"喵狸搜索",
 "type":3,
 "api":"csp_AliPS",
 "playerType":1,
@@ -801,7 +746,7 @@
 "ext":"./lib/alitoken.txt"},
 
 {"key":"csp_Upyunso",
-"name":"UPy≛搜索",
+"name":"UPy搜索",
 "type":3,
 "api":"csp_Upyunso",
 "playerType":1,
@@ -811,7 +756,7 @@
 "ext":"./lib/alitoken.txt"},
 
 {"key":"csp_Yisou",
-"name":"易搜≛搜索",
+"name":"易搜搜索",
 "type":3,
 "api":"csp_Yisou",
 "playerType":1,
@@ -821,7 +766,7 @@
 "ext":"./lib/alitoken.txt"},
 
 {"key":"Gitcafe",
-"name":"纸条≛搜索",
+"name":"纸条搜索",
 "type":3,
 "api":"csp_Gitcafe",
 "playerType":1,
@@ -831,7 +776,7 @@
 "ext":"./lib/alitoken.txt"},
 
 {"key":"csp_XYQHikerAL_云盘资源",
-"name":"阿里≛云盘",
+"name":"阿里云盘",
 "type":3,
 "api":"csp_XYQHikerAL",
 "playerType":1,
@@ -860,7 +805,7 @@
 }},
 
 {"key":"csp_XYQHikerAL_我的小站",
-"name":"小站≛云盘",
+"name":"小站云盘",
 "type":3,
 "api":"csp_XYQHikerAL",
 "playerType":1,
@@ -890,7 +835,7 @@
 }},
 
 {"key":"csp_XYQHikerAL_阿里云盘网",
-"name":"阿里≛云盘",
+"name":"阿里云盘",
 "type":3,
 "api":"csp_XYQHikerAL",
 "playerType":1,
@@ -924,7 +869,7 @@
 }},
 
 {"key":"csp_XYQHikerAL_豆豆飞",
-"name":"豆豆≛云盘",
+"name":"豆豆云盘",
 "type":3,
 "api":"csp_XYQHikerAL",
 "playerType":1,
@@ -953,7 +898,7 @@
 }},
 
 {"key":"csp_XYQHiker_DOVX搜索",
-"name":"七夜≛云盘",
+"name":"七夜云盘",
 "type":3,
 "api":"csp_XYQHiker",
 "playerType":1,
@@ -971,7 +916,7 @@
 }},
 
 {"key":"csp_XYQHiker_土拨鼠搜索",
-"name":"土鼠≛云盘",
+"name":"土鼠云盘",
 "type":3,
 "api":"csp_XYQHiker",
 "playerType":1,
@@ -990,7 +935,7 @@
 }},
 
 {"key":"csp_XYQHiker_盘搜索",
-"name":"盘盘≛云盘",
+"name":"盘盘云盘",
 "type":3,
 "api":"csp_XYQHiker",
 "playerType":1,
