@@ -704,6 +704,17 @@
 "ratio":1.33},
 "ext":"./lib/九辰.json"},
 
+    {
+      "key": "csp_woggcli",
+      "name": "俊哥玩偶.",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/tok.txt"
+    },
+
 {"key":"csp_XYQHikerAL_玩偶哥哥",
 "name":"玩偶哥⁴K",
 "type":3,
