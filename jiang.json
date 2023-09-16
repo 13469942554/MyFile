@@ -706,7 +706,7 @@
 
     {
       "key": "csp_woggcli",
-      "name": "俊哥玩偶.",
+      "name": "俊哥玩偶",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
       "searchable": 1,
