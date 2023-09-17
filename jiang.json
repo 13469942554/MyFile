@@ -714,6 +714,8 @@
 "ratio":1.33},
 "ext":"./lib/九辰.json"},
 
+{"key":"csp_AList_Alist","name":"Alist网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/KAlist.json","jar": "./lib/fty0915.jar"},
+
     {
       "key": "csp_woggcli",
       "name": "俊哥玩偶",
