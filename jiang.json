@@ -176,6 +176,17 @@
 "手动嗅探视频链接关键词":".mp4#.m3u8#item/video#video_mp4#video/tos",
 "手动嗅探视频链接过滤词":".html#=http"}},
 
+{"key":"csp_暴风",
+"name":"♻️暴风影视",
+"type":1,
+"api":"https://yk.shaozeyy.com/api.php/provide/vod//from/bfzym3u8",
+"style":{
+"type":"rect",
+"ratio":1.33},
+"searchable":1,
+"quickSearch":1,
+"filterable":1},
+
 {"key":"drpy_js_哔哩影视",
 "name":"♻️哔哩影视",
 "type":3,
@@ -534,17 +545,6 @@
 "quickSearch":1,
 "filterable":1},
 
-{"key":"csp_暴风",
-"name":"暴风影视",
-"type":1,
-"api":"https://yk.shaozeyy.com/api.php/provide/vod//from/bfzym3u8",
-"style":{
-"type":"rect",
-"ratio":1.33},
-"searchable":1,
-"quickSearch":1,
-"filterable":1},
-
 {"key":"csp_非凡",
 "name":"♻️非凡影视",
 "type":3,
@@ -634,7 +634,7 @@
 }},
 
 {"key":"直播转点播",
-"name":"电视直播",
+"name":"✳️电视直播",
 "type":3,
 "api":"./lib/九辰直转点.js",
 "style":{
@@ -642,11 +642,19 @@
 "ratio":1.33},
 "ext":"./lib/九辰.json"},
 
-{"key":"csp_AList_Alist","name":"Alist网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/KAlist.json","jar":"./lib/fty0915.jar"},
+{"key":"csp_AList_Alist",
+"name":"📀Alist网盘",
+"type":3,
+"api":"csp_AList",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"./lib/KAlist.json",
+"jar":"./lib/fty0915.jar"},
 
 {
 "key":"csp_woggcli",
-"name":"俊哥玩偶",
+"name":"📀俊哥玩偶",
 "type":4,
 "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
 "style":{
