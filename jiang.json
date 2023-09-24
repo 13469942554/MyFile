@@ -10,59 +10,44 @@
 
 "sites":[
 
-{"key":"drpy_js_360影视",
-"name":"♻️360官源",
-"type":3,
-"api":"./lib/drpy2.min.js",
-"style":{
-"type":"rect",
-"ratio":1.33},
-"ext":"./lib/360影视.js"},
+  {"key":"360_spider","name":"🐞360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
 
-{"key":"drpy_js_菜狗",
-"name":"♻️搜狗官源",
-"type":3,
-"api":"./lib/drpy2.min.js",
-"style":{
-"type":"rect",
-"ratio":1.33},
-"ext":"./lib/菜狗.js"},
-
-{"key":"drpy_js_腾云驾雾",
-"name":"♻️腾讯官源",
-"type":3,
-"api":"./lib/drpy2.min.js",
-"ext":"./lib/腾云驾雾.js",
-"style":{
-"type":"rect",
-"ratio":1.33}},
-
-{"key":"drpy_js_百忙无果",
-"name":"♻️芒果官源",
-"type":3,
-"api":"./lib/drpy2.min.js",
-"style":{
-"type":"rect",
-"ratio":1.33},
-"ext":"./lib/百忙无果.js"},
-
-{"key":"drpy_js_奇珍异兽",
-"name":"♻️IQY官源",
-"type":3,
-"api":"./lib/drpy2.min.js",
-"ext":"./lib/奇珍异兽.js",
-"style":{
-"type":"rect",
-"ratio":1.33}},
-
-{"key":"drpy_js_优酷",
-"name":"♻️优酷官源",
-"type":3,
-"api":"./lib/drpy2.min.js",
-"ext":"./lib/优酷.js",
-"style":{
-"type":"rect",
-"ratio":1.33}},
+{
+      "key": "奇艺",
+      "name": "♻️奇艺官源|",
+      "type": 3,
+      "api": "csp_IQIYI",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "腾讯",
+      "name": "♻️腾讯官源",
+      "type": 3,
+      "api": "csp_QQ",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "芒果",
+      "name": "♻️芒果官源",
+      "type": 3,
+      "api": "csp_MGTV",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "优酷",
+      "name": "♻️优酷官源",
+      "type": 3,
+      "api": "csp_YOUKU",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
 
 {"key":"xml_搜狐",
 "name":"♻️搜狐视频",
