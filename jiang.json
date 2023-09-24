@@ -10,44 +10,44 @@
 
 "sites":[
 
-  {"key":"360_spider","name":"🐞360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
+  {"key":"360_spider","name":"♻️360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
 
-{
-      "key": "奇艺",
-      "name": "♻️奇艺官源|",
-      "type": 3,
-      "api": "csp_IQIYI",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "腾讯",
-      "name": "♻️腾讯官源",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "芒果",
-      "name": "♻️芒果官源",
-      "type": 3,
-      "api": "csp_MGTV",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "优酷",
-      "name": "♻️优酷官源",
-      "type": 3,
-      "api": "csp_YOUKU",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
+        {
+            "key": "疼疼",
+            "name": "♻️腾讯官源",
+            "type": 3,
+            "api": "csp_QQ",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "齐齐",
+            "name": "♻️爱奇艺源",
+            "type": 3,
+            "api": "csp_IQIYI",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "忙忙",
+            "name": "♻️芒果官源",
+            "type": 3,
+            "api": "csp_MGTV",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "悠悠",
+            "name": "♻️优酷官源",
+            "type": 3,
+            "api": "csp_YOUKU",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
 
 {"key":"xml_搜狐",
 "name":"♻️搜狐视频",
