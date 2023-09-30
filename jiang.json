@@ -333,16 +333,16 @@
 "type":"rect",
 "ratio":1.33}},
 
-{"key":"drpy_js_我的哔哩",
-"name":"📺哔哩综合",
-"type":3,
-"api":"./lib/drpy2.min.js",
-"searchable":0,
-"changeable":0,
-"ext":"./lib/我的哔哩.js",
-"style":{
-"type":"rect",
-"ratio":1.33}},
+{
+      "key": "Bili_聚合",
+      "name": "📺哔哩聚合",
+      "type": 3,
+      "changeable": 0,
+      "searchable": 0,
+      "playerType": 1,
+      "api": "csp_Bili",
+      "ext": "./lib/我的哔哩.json"
+    },
 
 {"key":"js_Xinsj",
 "name":"🎬视觉影院",
