@@ -1,0 +1,6 @@
+{"urls":[
+   {"name":"🌿极狐仓","url":"https://jihulab.com/myfile/tvbox/-/raw/main/jiang.json"},
+ {"name":"🌿凯速仓","url":"https://download.kstore.space/download/5036/MyFile/jiang.json"},
+ {"name":"🌿Code仓","url":"https://codeberg.org/iamweak/MyFile/raw/branch/master/jiang.json"},
+{"name":"🌿GitHub仓","url":"https://gh-proxy.com/https://raw.githubusercontent.com/13469942554/MyFile/main/jiang.json"}
+]}
