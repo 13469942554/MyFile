@@ -1,5 +1,5 @@
 {
-"spider":"./ttkx.jar,
+"spider": "./ttkx.jar",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
 
@@ -24,6 +24,7 @@
 "name":"🐦视觉┃影视",
 "type":3,
 "api":"csp_Xinsj",
+"jar":"./feimao.jar",
 "searchable":0,
 "quickSearch":1,
 "filterable":1,
@@ -33,13 +34,13 @@
 "name":"🍎苹果┃影视",
 "type":3,
 "playerType":"2",
-"api":"csp_LiteApple"},
+"api":"csp_LiteApple",
+"jar":"./feimao.jar"},
 
 {"key":"zztong",
 "name":"📺饭团┃影院",
 "type":3,
 "api":"csp_XBPQ",
-"jar":"./sx.jar",
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
@@ -72,7 +73,7 @@
 "name":"📺神仙┃自营",
 "type":3,
 "api":"csp_XBPQ",
-"jar":"./sx.jar",
+
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
@@ -162,11 +163,16 @@
 "hide":1,
 "ext":"./lib/电影港磁力.json"},
 
-{"key":"csp_Xb6v",
-"name":"🐤6V磁力┃影视",
-"type":3,
-"api":"csp_Xb6v",
-"playerType":"2"},
+    {
+      "key": "csp_New6v",
+      "name": "🧲新6V┃磁力",
+      "type": 3,
+      "api": "csp_New6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.xb6v.com"
+    },
 
 {"key":"drpy_js_哔哩影视",
 "name":"📺哔哩┃影视[js]",
@@ -237,31 +243,6 @@
 "ext":"./lib/music.json"},
 
 
-
-{"key":"88js",
-"name":"⚽88┃看球",
-"type":3,
-"api":"./lib/drpy2.min.js",
-"ext":"./lib/88看球.js",
-"style":{"type":"list"},
-"searchable":0,
-"quickSearch":0,
-"changeable":0},
-
-
-
-{"key":"看球",
-"name":"⚾看球┃直播",
-"type":3,
-"api":"csp_Kanqiu",
-"searchable":1,
-"quickSearch":1,
-"changeable":0,
-"gridview":3,
-"style":{
-"type":"list"}},
-
-
 {"key":"csp_AliPS",
 "name":"📀喵狸┃(搜索)",
 "type":3,
@@ -309,7 +290,7 @@
       "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
     },
 
-{"key":"應用商店",
+{"key":"🖥應用┃商店",
 "name":"應用┃商店",
 "type":3,
 "api":"csp_Market",
