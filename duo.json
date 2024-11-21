@@ -1,10 +1,16 @@
 {"urls":[
 
-{"name":"🇨🇳凯速仓","url":"https://download.kstore.space/download/5036/MyFile/jiang.json"},
+{"name":"💖Codeberg仓","url":"https://codeberg.org/13469942554/jiang/raw/branch/main/jiang.json"},
 
-{"name":"🇨🇳GitHub仓","url":"https://gh-proxy.com/https://raw.githubusercontent.com/13469942554/MyFile/main/jiang.json"},
+{"name":"💖GitHub仓","url":"https://gh-proxy.com/https://raw.githubusercontent.com/13469942554/MyFile/main/jiang.json"},
 
-{"name":"🇨🇳极狐仓","url":"https://jihulab.com/myfile/tvbox/-/raw/main/jiang.json"},
+{"name":"💖Gitcode仓","url":"https://raw.gitcode.com/jiang91833/TVBOX/raw/main/jiang.json"},
+
+{"name":"💖凯速仓","url":"https://download.kstore.space/download/5036/MyFile/jiang.json"},
+
+{"name":"🔷极狐仓","url":"https://jihulab.com/myfile/tvbox/-/raw/main/jiang.json"},
+
+{"name":"🔷潇洒","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"},
 
 {"name":"🔷饭太硬","url":"http://饭太硬.top/tv"},
 
