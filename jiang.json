@@ -3,6 +3,33 @@
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
 
+{"key":"农民影视",
+"name":"📺农民｜影视",
+"type":3,
+"api":"csp_Nmys",
+"searchable":1,
+"quickSearch":1,
+"filterable":1},
+
+
+{"key":"荐片",
+"name":"🎬荐片｜磁力",
+"type":3,
+"api":"csp_Jianpian",
+"playerType":1,
+"searchable":1,
+"quickSearch":1,
+"filterable":1},
+
+
+{"key":"瓜子影视",
+"name":"📺瓜子｜影视",
+"type":3,
+"api":"csp_Gz360",
+"searchable":1,
+"quickSearch":1,
+"filterable":1},
+
 {"key":"南瓜影视",
 "name":"📺南瓜｜APP",
 "type":3,
@@ -19,21 +46,9 @@
 "quickSearch":1,
 "filterable":1},
 
-{"key":"农民影视",
-"name":"📺农民｜影视",
-"type":3,
-"api":"csp_Nmys",
-"searchable":1,
-"quickSearch":1,
-"filterable":1},
+
 	
-{"key":"瓜子影视",
-"name":"📺瓜子｜影视",
-"type":3,
-"api":"csp_Gz360",
-"searchable":1,
-"quickSearch":1,
-"filterable":1},
+
 
 {"key":"金牌影视",
 "name":"📺金牌｜影视",
@@ -51,6 +66,25 @@
 "quickSearch":1,
 "filterable":1},
 
+{"key":"糯米弹幕",
+"name":"💘糯米｜弹幕",
+"type":3,
+"api":"csp_Nmys",
+"jar":"./jar.php",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":{"danmu":true}},
+
+{"key":"文才弹幕",
+"name":"💘文才┃弹幕",
+"type":3,
+"api":"csp_Jpys",
+"jar":"./jar.php",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":{"danmu":true}},
 
 {"key":"忍者影视",
 "name":"📺忍者｜影视",
@@ -78,14 +112,7 @@
 "quickSearch":1,
 "filterable":1},
 
-{"key":"荐片",
-"name":"🎬荐片｜磁力",
-"type":3,
-"api":"csp_Jianpian",
-"playerType":1,
-"searchable":1,
-"quickSearch":1,
-"filterable":1},
+
 
 	
 {"key":"追剧影视",
